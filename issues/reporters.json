@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "team": "Engineering"
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "team": "Marketing"
+    },
+    {
+        "id": 3,
+        "name": "Alex Kumar",
+        "email": "alex@example.com",
+        "team": "backend"
+    },
+    {
+        "id": 4,
+        "name": "klex jumar",
+        "email": "aklex@xample.com",
+        "team": "sdk"
+    },
+    {
+        "id": 5,
+        "name": "surya",
+        "email": "surya.@example.com",
+        "team": "backend"
+    }
+]
